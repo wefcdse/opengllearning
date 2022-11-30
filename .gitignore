@@ -1,0 +1,14 @@
+.vscode
+build
+.brachyura
+run
+netbeans
+x64
+.idea
+*.launch
+*.iml
+.classpath
+.project
+.settings
+/.apt_generated/
+.factorypath
