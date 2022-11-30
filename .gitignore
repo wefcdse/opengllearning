@@ -4,6 +4,7 @@ build
 run
 netbeans
 x64
+.vs
 .idea
 *.launch
 *.iml
